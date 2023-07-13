@@ -58,7 +58,7 @@ UserB: I don't know what the time is
 ### As we can see the identifier is seperated from the command, this is simply to not make the bot do the command that someone wants info on, we can also see that there are arguments for the fight command, these are put in brackets ( [] ) so that they can be easily identifiable, you should not put the brackets whenever you use the command as this will mess up the bot. So if we take this and we try to use it, you should get something like this:
 
 ```
-.wheelie R_Powell Mikaelvussy
+.fight R_Powell Mikaelvussy
 ```
 
 ### This will then give you the results of the fight. Using this very basic example you should be able to aptly use the wheelie command to use any other commands that you need help with, if you like to see the available commands then you can use the .help command which will give you the command and then a very brief description about it
